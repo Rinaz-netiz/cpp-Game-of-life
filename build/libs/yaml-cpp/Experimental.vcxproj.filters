@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Code\hse_classes\Game life\build\CMakeFiles\44adf202cf4ba175b44fe80ace476fd7\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Code\hse_classes\Game life\libs\yaml-cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Code\hse_classes\Game life\build\libs\yaml-cpp\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30838D87-F614-3D09-ACAF-1B9457DE6151}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

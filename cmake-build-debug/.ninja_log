@@ -1,0 +1,95 @@
+# ninja log v6
+1536	2737	7629421040678569	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/memory.cpp.obj	3805c5f10ca7def6
+3	27	7629434890955269	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4102	4206	7629421066342234	CMakeFiles/Game_life.dir/src/Cell.cpp.obj	b931f7b5654b8d2c
+57	1507	7629421025896221	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/directives.cpp.obj	b30e5b3a009f4df0
+28	1384	7629427970357015	CMakeFiles/Game_life.dir/src/main.cpp.obj	7299a583250a445
+32	1054	7629427970401606	CMakeFiles/Game_life.dir/src/Game.cpp.obj	46c74cf065a8c0c9
+2	159	7629408621404873	build.ninja	a1a1e64a3d5ce20a
+27	749	7629434475720364	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+750	1042	7629434482949866	Game_life.exe	6c99676f738f59c4
+35	1515	7629421025666156	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilderadapter.cpp.obj	a5baf547a4457f1e
+78	1603	7629421026096183	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterstate.cpp.obj	e230cb6f579c4d7c
+51	1530	7629421025836270	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/depthguard.cpp.obj	f081e17f61e12bb2
+30	1524	7629421025616251	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/contrib/graphbuilder.cpp.obj	b4a63c6d50705390
+1524	2873	7629421040558514	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exp.cpp.obj	5326a6d2d12160bd
+42	1536	7629421025736162	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/binary.cpp.obj	2fcace41ff1830db
+1508	3142	7629421040403004	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitterutils.cpp.obj	2d5775b5f2ca11d9
+67	1618	7629421025986260	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitfromevents.cpp.obj	97fa1c100e10617
+62	1633	7629421025936222	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emit.cpp.obj	a1b36c6ec5b2e54e
+73	1759	7629421026046518	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/emitter.cpp.obj	8d3c2a437b42c1b7
+47	2193	7629421025786222	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/convert.cpp.obj	7a3204800096b802
+2193	2322	7629421047250404	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/null.cpp.obj	78f0175cb4f4cf2e
+1604	2336	7629421041358610	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node.cpp.obj	3f600b1a8d6b8a6f
+1515	2631	7629421040478587	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/exceptions.cpp.obj	cc6ed4fe5b2a19eb
+3510	4471	7629421060414260	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/stream.cpp.obj	5ee2adeef884b2cc
+1760	2900	7629421042918598	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodeevents.cpp.obj	34d7fc32dd9c2cf6
+1531	2962	7629421040628629	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/fptostring.cpp.obj	3b2ba217608a0737
+1633	3204	7629421041648603	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/nodebuilder.cpp.obj	b7f9069a4772f8e
+1618	3325	7629421041498546	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/node_data.cpp.obj	15705e856aefd8b3
+2323	3509	7629421048550203	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/ostream_wrapper.cpp.obj	701c21a5cbdd06c4
+2336	3790	7629421048680404	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parse.cpp.obj	3d09dad273ffbd56
+2737	3867	7629421052690200	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/regex_yaml.cpp.obj	792e1d5d8b40d328
+2631	4019	7629421051630266	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/parser.cpp.obj	ee0fef21158e637f
+2900	4037	7629421054320261	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanscalar.cpp.obj	746130a98d280fae
+4670	4817	7629421072013662	libs/yaml-cpp/yaml-cppd.lib	996c2e2c0c538c40
+2971	4102	7629421055030240	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantag.cpp.obj	4c8a17c3b60008f1
+2873	4267	7629421054050442	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scanner.cpp.obj	7d9c77a442e8ede7
+3204	4344	7629421057367549	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/simplekey.cpp.obj	590a6d1a2ae9426e
+3142	4444	7629421056741728	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/scantoken.cpp.obj	cbe28b0fb55fd9c
+3326	4562	7629421058572971	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/singledocparser.cpp.obj	a2b3aa4d9bd5a8c9
+3790	4669	7629421063225767	libs/yaml-cpp/CMakeFiles/yaml-cpp.dir/src/tag.cpp.obj	ac57557593aae2cb
+4	27	7629435222517211	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+30	664	7629435222780709	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+664	984	7629435229119206	Game_life.exe	6c99676f738f59c4
+3	24	7629435428014213	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+27	598	7629435428246377	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+599	876	7629435433969616	Game_life.exe	6c99676f738f59c4
+3	27	7629435555351061	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+30	577	7629435555621161	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+577	866	7629435561093059	Game_life.exe	6c99676f738f59c4
+3	27	7629436244584928	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+3	23	7629436314423989	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	25	7629436400573555	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	24	7629436475244177	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	26	7629436698857336	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+28	600	7629436699100568	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+601	904	7629436704829052	Game_life.exe	6c99676f738f59c4
+3	24	7629436825493072	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+33	917	7629436825793108	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+30	1441	7629436825763125	CMakeFiles/Game_life.dir/src/Game.cpp.obj	46c74cf065a8c0c9
+26	1765	7629436825720562	CMakeFiles/Game_life.dir/src/main.cpp.obj	7299a583250a445
+1766	2074	7629436843113518	Game_life.exe	6c99676f738f59c4
+3	23	7629436931195544	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+26	587	7629436931416843	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+587	856	7629436937027159	Game_life.exe	6c99676f738f59c4
+4	25	7629438716887746	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+28	594	7629438717127045	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+595	884	7629438722795562	Game_life.exe	6c99676f738f59c4
+3	22	7629438776401503	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	26	7629438857157686	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	24	7629438921999764	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+5	26	7629439131838714	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+8	35	7629439309651293	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+38	704	7629439309941298	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+705	1010	7629439316616431	Game_life.exe	6c99676f738f59c4
+4	25	7629441988788003	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+28	593	7629441989028632	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+593	877	7629441994678320	Game_life.exe	6c99676f738f59c4
+4	32	7629446428096737	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+5	27	7629446502504675	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	24	7629448669256240	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+26	819	7629448669479686	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+819	1156	7629448677411021	Game_life.exe	6c99676f738f59c4
+4	25	7629449402518354	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+27	532	7629449402751494	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+533	812	7629449407804660	Game_life.exe	6c99676f738f59c4
+3	23	7629449489375311	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+5	26	7629452379018019	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+32	554	7629452379291446	CMakeFiles/Game_life.dir/src/Field.cpp.obj	11669764f0faa8b8
+28	1376	7629452379247996	CMakeFiles/Game_life.dir/src/main.cpp.obj	7299a583250a445
+1376	1709	7629452392734005	Game_life.exe	6c99676f738f59c4
+4	27	7629452867993555	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	26	7629452925746898	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+4	26	7629452989962620	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c
+3	23	7629453092035313	C:/Code/hse_classes/Game life/cmake-build-debug/CMakeFiles/cmake.verify_globs	4691b0f518a16b2c

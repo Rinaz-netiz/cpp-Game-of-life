@@ -1,0 +1,16 @@
+game_settings:
+  width: 40          # Ширина поля
+  height: 40         # Высота поля
+  initial_alive: 3 # Количество живых клеток в начале
+  cell_size: 20      # Размер одной клетки в пикселях
+  update_delay: 0.2
+
+colors:
+  background: [240, 30, 0]  # Цвет фона (R, G, B)
+  alive_cell: [0, 0, 0]      # Цвет живой клетки (черный)
+  dead_cell: [255, 255, 255] # Цвет мертвой клетки (белый)
+
+window:
+  title: "Game of Life"
+  window_size: [800, 800]
+  framerate_limit: 30
