@@ -47,14 +47,6 @@ foreach(DLL ${DLL_FILES_DEBUG})
     )
 endforeach()
 
-foreach(DLL ${DLL_FILES_RELEASE})
-    add_custom_command(TARGET Game_life POST_BUILD
-            COMMAND ${CMAKE_COMMAND} -E copy_if_different
-            ${DLL} $<TARGET_FILE_DIR:Game_life>
-            COMMENT "Copying ${DLL} to output directory"
-    )
-endforeach()
-
 # Копируем DLL файлы для Debug
 foreach(DLL ${DLL_FILES_DEBUG})
     add_custom_command(TARGET Game_life POST_BUILD
