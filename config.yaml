@@ -1,7 +1,7 @@
 game_settings:
   width: 40          # Ширина поля
   height: 40         # Высота поля
-  initial_alive: 3 # Количество живых клеток в начале
+  initial_alive: 4 # Количество живых клеток в начале
   cell_size: 20      # Размер одной клетки в пикселях
   update_delay: 0.2
 

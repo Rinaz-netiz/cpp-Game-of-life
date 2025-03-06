@@ -54,12 +54,14 @@ Config loadConfig(const std::string& filename) {
 
 int main()
 {
-    if (!std::filesystem::exists("../config.yaml")) {
+    std::string configFilePath = "../../config.yaml";
+
+    if (!std::filesystem::exists(configFilePath)) {
         std::cerr << "Error: file config.yaml does not exist!" << std::endl;
         return 1;
     }
 
-    Config config = loadConfig("../config.yaml");
+    Config config = loadConfig(configFilePath);
 
     sf::RenderWindow window(sf::VideoMode(config.window_size), config.title, sf::Style::Default);
     window.setFramerateLimit(config.framerate_limit);// call it once after creating the window
