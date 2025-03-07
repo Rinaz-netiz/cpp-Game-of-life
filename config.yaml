@@ -1,9 +1,9 @@
 game_settings:
   width: 40          # Ширина поля
   height: 40         # Высота поля
-  initial_alive: 4 # Количество живых клеток в начале
+  initial_alive: 8 # Количество живых клеток в начале
   cell_size: 20      # Размер одной клетки в пикселях
-  update_delay: 0.2
+  update_delay: 0.12
 
 colors:
   background: [240, 30, 0]  # Цвет фона (R, G, B)

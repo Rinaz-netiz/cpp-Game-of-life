@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <ostream>
-#include <vector>
+
 
 Field::Field(const int height, const int width, const int initial_alive) {
     this->initial_alive = initial_alive;
@@ -112,4 +112,3 @@ bool Field::checkForNonEqual() const {
 
     return false;
 }
-

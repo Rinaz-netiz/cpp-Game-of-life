@@ -30,7 +30,7 @@ private:
     Cell** prev_arr = nullptr;
     int height;
     int width;
-    int countAliveCells = 3;
+    int countAliveCells = 4;
     int initial_alive;
 
     [[nodiscard]] int countNeighbours(int x, int y) const;

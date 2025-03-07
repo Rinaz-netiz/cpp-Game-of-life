@@ -19,15 +19,6 @@ public:
 
     [[nodiscard]]bool update() const {return field->update();};
 
-    void printFieldMap() const {
-        for(int i = 0; i < field->get_height(); i++) {
-            for(int j = 0; j < field->get_width(); j++)
-                std::cout << field->getCell(i, j) << " ";
-            std::cout << std::endl;
-        }
-
-    }
-
     ~Game();
 
 private:
